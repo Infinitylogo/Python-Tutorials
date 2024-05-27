@@ -1,5 +1,5 @@
 # Python-Tutorials
-
+# copied the list of syllabus from different different online sources (GFG, tutorals, W3 schools)
 # Topics will be in this course:--
 
 -------------------------------------     Section 1 - Introduction
