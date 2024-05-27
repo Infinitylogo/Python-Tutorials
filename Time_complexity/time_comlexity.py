@@ -1,3 +1,4 @@
+# Created by Ritu Raj
 # Omega, theta, and big O
 
 #>>>>>>>>>>>>>>>>...
