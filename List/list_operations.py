@@ -58,5 +58,11 @@ list_any_dtype = [1, 2, 'a', 3, '3']
 print(array_same_dtype,list_any_dtype)
 print(array_same_dtype/2) # arithematic operations
 
-trying_to_create_array_with_diff_dtype = np.array([1, 2, 3,4, 5, 'a'])
-print(array_same_dtype)
+
+print('lists')
+print(list_any_dtype*2)
+
+# [0]*5 >> [0,0,0,0,0]
+
+trying_to_create_array_with_diff_dtype = np.array([1, 2, 3,4,5,'a'])
+print(trying_to_create_array_with_diff_dtype)

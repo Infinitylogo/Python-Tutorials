@@ -23,11 +23,8 @@
 -------------------------------------     Section 3 - Cracking Recursion Interview Questions
 
 Question 1 - Sum of Digits
-
 Question 2 - Power
-
 Question 3 - Greatest Common Divisor
-
 Question 4 - Decimal To Binary
 
 -------------------------------------     Section 4 - Bonus CHALLENGING Recursion Problems (Exercises)
