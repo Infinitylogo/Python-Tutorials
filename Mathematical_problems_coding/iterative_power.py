@@ -42,7 +42,10 @@ def power_gen_for_pos_nagative_number(num, expo):
         expo //=2
     return res
 
-print(power_gen_for_pos_nagative_number(2,-2))
+# print(power_gen_for_pos_nagative_number(2,-2))
+
+def power_(num, expo):
+    return num**expo
 
 
 
